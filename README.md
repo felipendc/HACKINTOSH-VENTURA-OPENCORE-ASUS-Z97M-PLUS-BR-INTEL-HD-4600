@@ -17,6 +17,11 @@
 <br />
 <br />
 
+[**How to fix Bluetooth devices not pairing in dual boot (Windows and Hackintosh) PT-BR**](https://www.youtube.com/watch?v=g9I8vJ9yAoE&ab_channel=VicyosLinuxOfficial)
+
+<br />
+<br />
+
 ***Quick Tip: How to mount the EFI folder from a Disk Driver or USB Stick using Linux:.***
 
 > **List disks:** sudo fdisk -l <br />
@@ -59,6 +64,8 @@
 
 <br />
 <br />
+
+[**How to fix Bluetooth devices not pairing in dual boot (Windows and Hackintosh) PT-BR**](https://www.youtube.com/watch?v=g9I8vJ9yAoE&ab_channel=VicyosLinuxOfficial)
 
 ***Some random screenshots:*** <br />
 
